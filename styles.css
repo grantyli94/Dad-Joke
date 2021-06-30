@@ -1,0 +1,14 @@
+body {
+  line-height: 50px;
+}
+
+button {
+  margin:10px;
+}
+
+span {
+  color: green;
+  border: 2px dotted orange;
+  padding: 5px;
+  margin-left: 5px;
+}
